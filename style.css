@@ -1,0 +1,24 @@
+body{
+	background:pink;
+}
+.main{
+	background:yellow;
+	display:flex;
+	justify-content:space-around;
+	margin:10%;
+	border-radius: 7% ;
+	box-shadow: 5px 5px 6px 6px;
+}
+.sub{
+	background: skyblue;
+	margin:5%;
+	border-radius: 5%;
+	text-align:center;
+	box-shadow: 4px 4px 8px 8px;
+}
+img{
+	margin:4%;
+    border-radius: 4%;
+    width:75%;
+    height: 40%; 
+}

@@ -1,0 +1,39 @@
+{
+	"profile":{
+		"img":"image3.jpg",
+		"name":"vineetha",
+		"rollno":"17NN1A1249",
+		"place":"vijayawada",
+		"email":"yarlagaddavineetha@gmail.com"
+	},
+	"carrier":{
+		"info":"I want to seek a job in reputed company to explore my thoughts"
+	},
+	"education":[
+		{
+			"degree":"b.tech",
+			"institute":"vignan",
+			"per":"80%",
+			"yearofpass":"2021"
+		},
+		{
+           "degree":"intermediate",
+			"institute":"xyz",
+			"per":"95%",
+			"yearofpass":"2017"
+
+		},
+		{
+           "degree":"ssc",
+			"institute":"abc",
+			"per":"95%",
+			"yearofpass":"2015"
+		}
+    ],
+    "skills":[
+    	{
+              "info":"java"
+        }      
+       ]  
+ 
+}
